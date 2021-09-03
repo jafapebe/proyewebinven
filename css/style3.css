@@ -1,0 +1,46 @@
+body{
+    
+    background: gray;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.menu{
+   background: green;
+   position:static;
+   width: 100%;
+   height: 40px;
+}
+
+.contenedor{
+    background: palegoldenrod;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+  
+
+}
+
+.uno{
+    background-color: red;
+    float: left;
+    width: 200px;
+    height: 100%;
+    
+}
+.dos{
+    background: yellow;
+    float: left;
+    width: 200px;
+    height: 100%;
+    top: 0;
+    
+}
+.tres{
+    background: purple;
+    float: left;
+    width: 200px;
+    top: 0;
+   
+}
